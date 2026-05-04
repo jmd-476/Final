@@ -1,3 +1,4 @@
+<title>My Final Project</title>
 by: Joshua Darragh    
 
 Uploaded 05/03/2026 for Command Line GIS - 595
