@@ -1,16 +1,3 @@
----
----
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My Final Project</title>
-  <style>
-    body { font-family: sans-serif; max-width: 900px; margin: auto; padding: 2rem; }
-    figure { margin: 2rem 0; }
-    figcaption { font-style: italic; color: #555; margin-top: 0.5rem; }
-    img { max-width: 100%; border: 1px solid #ccc; }
-    iframe { width: 100%; height: 500px; border: 1px solid #ccc; }
-  </style>
 </head>
   
 <body>
@@ -64,6 +51,8 @@
   </figure>
     
   <h2>Interactive Map</h2>
-  <iframe src="interactive_map.html" title="Interactive Map"></iframe>
+  <figure>
+    <iframe src="interactive_map.html" title="Interactive Map"></iframe>
+  <figure>
 </body>
 </html>
