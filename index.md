@@ -1,4 +1,5 @@
 <title>My Final Project</title>
+
 by: Joshua Darragh    
 
 Uploaded 05/03/2026 for Command Line GIS - 595
@@ -15,6 +16,7 @@ Uploaded 05/03/2026 for Command Line GIS - 595
     iframe { width: 100%; height: 500px; border: 1px solid #ccc; }
   </style>
 </head>
+  
 <body>
   <h1> Spatial Analysis of 3 Prominent Convenience Store Chains in NJ and How They Relate to Population Density</h1>
   <p>New Jersians are known for their fast-paced lives, sitting in too much traffic, and most of all, needing to get a cawfee first thing. Its for these reasons that the NJ convenience store is a vital component to Jersey living; when drudging through the everyday horrors of Route 1 congestion, NJTransit delays, and the impending doom that this state will be halfway underwater by the time your grandkids are born, you can always find oasis at a Wawa, QuickChek, or 7-11. 
