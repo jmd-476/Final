@@ -1,8 +1,3 @@
-Final Project: Analyzing the Spatial Patterns of Wawas, 7-11s, and QuickCheks in NJ
-by: Joshua Darragh    
-
-Uploaded 05/03/2026 for Command Line GIS - 595
-
 <html lang="en">
 <head>
   <meta charset="UTF-8">
