@@ -53,6 +53,6 @@
   <h2>Interactive Map</h2>
   <figure>
     <iframe src="interactive_map.html" title="Interactive Map"></iframe>
-  <figure>
+  </figure>
 </body>
 </html>
