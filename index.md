@@ -45,13 +45,13 @@ Uploaded 05/03/2026 for Command Line GIS - 595
     <figcaption>Figure 2: Store Locations by Census Tract, Catagorized by Population Density of the Census Tract.</figcaption>
   </figure>
 
-    <figure>
+  <figure>
     <img src="table1_counts.png" alt="Table 1">
     <figcaption>Figure 2.1: Table of Census Tracts that Contain Convenience Stores as Counts.</figcaption>
   </figure>
 
-    <figure>
-    <img src="table1_counts.png" alt="Table 1">
+   <figure>
+    <img src="table2_pcts.png" alt="Table 1">
     <figcaption>Figure 2.2: Table of Census Tracts that Contain Convenience Stores as Percentages.</figcaption>
   </figure>
   
